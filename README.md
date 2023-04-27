@@ -6,4 +6,22 @@ Proyecto del periodo #1. Programando el ESP32
 # integrantes del grupo:
 
 - Elizabeth Villablanca Rodas
+-
+-
+-
+-
 
+# DOCENTE: 
+Cristian Gonzalo Vera.
+
+# Año: 2023
+
+# Scrum Master: 
+
+# Product Owner:
+
+# Equipo de desarrollo:
+
+- Elizabeth Villablanca Rodas.
+
+# Video de presentación del proquecto:
